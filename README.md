@@ -1,13 +1,13 @@
 ## 📚 Description
 
-### 📅 Time & Date Block
+### 1. 📅 Time & Date Block
 
 - Start Date: October 18, 2025 
 - Expected Finish: October 21, 2025
 - Checkpoint Code: CP003
 - GitHub Folder: CP003_Functions_ErrorHandling 
 
-### 📝 What’s Covered in CP003?
+### 2. 📝 What’s Covered in CP003?
 
 This checkpoint is the 3rd step in my Developer Journey, where I focus on three tightly linked skills:
 
@@ -70,6 +70,9 @@ To show this checkpoint is fully completed, we’ll submit:
 ## 6. 💬 ReadMe Tone
 
 This repo is part of my self-built Checkpoint Proof System — a journey I started not to impress, but to improve. I’m learning Python step-by-step while blending in subjects from my B.E Civil Engineering backlog, as a way to truly connect knowledge with purpose.
+
+## 7. 🧭 Next Step
+🚀 Proceed to: **CP004 – File Handling + Modules** 
 
 In this checkpoint, I learned not just how functions work — but how they speak. How errors teach us patience. And how one arrear subject can become a tool for deeper thinking.
 
