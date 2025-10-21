@@ -3,7 +3,7 @@
 ### 1. 📅 Time & Date Block
 
 - Start Date: October 18, 2025 
-- Expected Finish: October 21, 2025
+- Finished Date: October 21, 2025
 - Checkpoint Code: CP003
 - GitHub Folder: CP003_Functions_ErrorHandling 
 
